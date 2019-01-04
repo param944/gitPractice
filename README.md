@@ -1,2 +1,2 @@
-#Git practice
+#Gitpractice
 This is my app.
